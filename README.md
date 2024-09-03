@@ -11,7 +11,7 @@ Hamza Akhtar 🧑‍💻
 🔗 LinkedIn: https://www.linkedin.com/in/hamza-akhtar-263555309/
 
 👨‍🎓 About Me
-I am an ambitious undergraduate student majoring in Computer Science with a passion for technology and innovation. My core competencies include a strong command over multiple programming languages such as C++, C#, JavaScript, and Python. I am adept at problem-solving with a profound understanding of data structures and algorithms. Known for my collaborative nature and meticulous attention to detail, I frequently take on leadership roles in team projects. I am enthusiastic about staying updated with the latest technological advancements and continually seeking opportunities to enhance my skill set. My interests are particularly focused on app development and applying my technical abilities to impactful projects.
+I am an ambitious Graduate student majoring in Computer Science with a passion for technology and innovation. My core competencies include a strong command over multiple programming languages such as C++, C#, JavaScript, and Python. I am adept at problem-solving with a profound understanding of data structures and algorithms. Known for my collaborative nature and meticulous attention to detail, I frequently take on leadership roles in team projects. I am enthusiastic about staying updated with the latest technological advancements and continually seeking opportunities to enhance my skill set. My interests are particularly focused on app development and applying my technical abilities to impactful projects.
 
 🛠️ Skills
 💻 Programming Languages:
